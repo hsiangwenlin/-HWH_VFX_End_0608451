@@ -382,7 +382,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6afbffff
+      m_ExpandedIDs: 78d1ffffb0d1ffffdad2ffff6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -653,7 +653,7 @@ MonoBehaviour:
       width: 389
       height: 179
     m_Scale: {x: 1.5888898, y: 1.5888898}
-    m_Translation: {x: 200.84114, y: 58.542362}
+    m_Translation: {x: 200.84114, y: 58.54236}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -661,7 +661,7 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -126.40344
-      y: -36.844822
+      y: -36.84482
       width: 244.82503
       height: 112.65727
     m_MinimalGUI: 1
